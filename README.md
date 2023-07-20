@@ -2,6 +2,7 @@
 PSEUDO-3D GAME DEMO IN PYGAME!
 
 Title Screen(UI)
+
 ![TitleScreen](images/game-i 1.png)
 
 Level 1
