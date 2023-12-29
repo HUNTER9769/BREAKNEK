@@ -11,11 +11,11 @@
 
 <h3>Level 2</h3>
 
-![BREAKNEK/images/game-i 2.png](https://github.com/HUNTER9769/BREAKNEK/blob/1725d9065215f66fe7ef8ba2a71fe7c714c69775/images/game-i%203.png)
+![BREAKNEK/images/game-i 2.png](https://github.com/HUNTER9769/BREAKNEK/blob/master/images/STRAIGHT%20RED.gif)
 
 <h3>Curve Demo</h3>
 
-![BREAKNEK/images/game-i 4.png](https://github.com/HUNTER9769/BREAKNEK/blob/aa9c45925c173938b4252b8875d513be5b08e77f/images/game-i%204.png)
+![BREAKNEK/images/game-i 4.png](https://github.com/HUNTER9769/BREAKNEK/blob/master/images/Untitled%20design.gif)
 
 
 
