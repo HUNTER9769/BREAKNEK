@@ -7,7 +7,7 @@
 
 <h3>Level 1</h3>
 
-![BREAKNEK/images/game-i 2.png](https://github.com/HUNTER9769/BREAKNEK/blob/aa9c45925c173938b4252b8875d513be5b08e77f/images/game-i%202.png)
+![BREAKNEK/images/game-i 2.png](https://github.com/HUNTER9769/BREAKNEK/blob/master/images/STRAIGHT%20GREEN.gif)
 
 <h3>Level 2</h3>
 
