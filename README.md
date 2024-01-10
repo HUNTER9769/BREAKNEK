@@ -16,6 +16,7 @@
 <h3>Curve Demo</h3>
 
 ![BREAKNEK/images/game-i 4.png](https://github.com/HUNTER9769/BREAKNEK/blob/master/images/Untitled%20design.gif)
+(Note: If issues appear in latest python version use python-3.7.8-amd64.exe as interpreter in high-level ide or as default install)
 
 
 
